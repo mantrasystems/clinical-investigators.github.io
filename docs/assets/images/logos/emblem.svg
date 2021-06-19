@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="160px" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>emblem</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-102.000000, -88.000000)">
+            <g id="emblem" transform="translate(102.000000, 88.000000)">
+                <circle id="Oval" fill="#CE4200" cx="80" cy="80" r="80"></circle>
+                <path d="M81,20 C114.137085,20 141,46.862915 141,80 C141,113.137085 114.137085,140 81,140 C47.862915,140 21,113.137085 21,80 C21,46.862915 47.862915,20 81,20 Z M81.5,39.5 C59.40861,39.5 41.5,57.40861 41.5,79.5 C41.5,101.59139 59.40861,119.5 81.5,119.5 C103.59139,119.5 121.5,101.59139 121.5,79.5 C121.5,57.40861 103.59139,39.5 81.5,39.5 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <rect id="Rectangle" fill="#CE4200" x="110" y="70" width="41" height="20"></rect>
+                <circle id="Oval" fill="#FFFFFF" cx="81.5" cy="80.5" r="20"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
