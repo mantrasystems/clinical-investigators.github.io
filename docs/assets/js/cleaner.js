@@ -5,5 +5,4 @@ window.addEventListener("DOMContentLoaded", function() {
 
   eraseCookie('_ga');
   eraseCookie('_ga_ZV3YSTSREF');
-  eraseCookie('_gid');
 });
